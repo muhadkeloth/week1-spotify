@@ -264,7 +264,7 @@ color: #ffffff;
 }
 .leftbm button{
     /* color: white; */
-    
+    border :none;
     /* margin: 0%; */
     margin-top: 17px;
     margin-left: 15px;
